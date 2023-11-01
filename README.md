@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a Master student in CUHK(SZ)
-- 🌱 I’m currently learning Computatial Imaging
+- 🌱 I’m currently learning Computational imaging
 - 👯 I’m looking to collaborate on everyone
 - 📫 How to reach me: shuo.xu928@gmail.com
 - ⚡ Fun fact: thinking...
